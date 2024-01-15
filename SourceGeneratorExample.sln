@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{3CDA4E0A-360C-4874-AD42-86C1BFE23BA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGenerators", "MyGenerators\MyGenerators.csproj", "{6CD3FA57-22B3-4E5A-B456-6E4BAEE4829C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CDA4E0A-360C-4874-AD42-86C1BFE23BA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CDA4E0A-360C-4874-AD42-86C1BFE23BA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CDA4E0A-360C-4874-AD42-86C1BFE23BA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CDA4E0A-360C-4874-AD42-86C1BFE23BA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CD3FA57-22B3-4E5A-B456-6E4BAEE4829C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CD3FA57-22B3-4E5A-B456-6E4BAEE4829C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CD3FA57-22B3-4E5A-B456-6E4BAEE4829C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CD3FA57-22B3-4E5A-B456-6E4BAEE4829C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
